@@ -12,6 +12,13 @@ Most of my production work lives in private enterprise repositories. This profil
 
 ## Projects
 
+### support-log-analyzer
+
+A second pair of eyes for log files. A Python tool (standard library only) that scans a log while I review it by hand, then compares findings: severity breakdown, repeated-error clustering, errors per hour, HTTP 5xx, and a findings list for the RCA.
+
+- Ships with a sample database-failover log and unit tests
+- **Repo:** https://github.com/ezequiel-contesti/support-log-analyzer
+
 ### Portfolio & Extended CV
 
 Source of my portfolio site: career history, case detail, and the extended CV behind the summary above.
@@ -24,7 +31,6 @@ Source of my portfolio site: career history, case detail, and the extended CV be
 
 Public versions of tools and patterns I use in production support work:
 
-- **Support Triage Toolkit** — Python utilities for log analysis, incident triage, and RCA documentation.
 - **API Health Checker** — Dockerized service for endpoint health checks, alerting, and uptime reporting.
 - **SaaS Onboarding Automation** — Deployment and onboarding automation patterns for enterprise SaaS.
 - **LLM Ticket Classifier** — Support ticket categorization and suggested responses using LLM APIs.
