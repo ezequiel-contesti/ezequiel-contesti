@@ -1,6 +1,6 @@
 # Ezequiel Contesti
 
-**Senior Technical Support & Implementation Engineer** — Vancouver, BC, Canada
+**Senior Technical Support & Implementation Engineer** - Vancouver, BC, Canada
 
 [LinkedIn](https://www.linkedin.com/in/ezequielcontesti) · [Portfolio](https://ezequiel-contesti.github.io/) · [Extended CV](https://ezequiel-contesti.github.io/extended-cv.html) · [Email](mailto:ezequielcontesti@hotmail.com)
 
