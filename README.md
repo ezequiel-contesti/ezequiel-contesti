@@ -35,19 +35,4 @@ Public versions of tools and patterns I use in production support work:
 - Maintained **99.9% uptime** across AI, edge, and cloud infrastructure with proactive monitoring and Python/Bash automation.
 - Designed the **Tier 3 escalation framework** at EPIC iO, connecting Tier 1/2 Support with Development, AI/ML, and DevOps.
 
-## Core technical stack
-
-- **Languages & scripting:** Python, Bash, SQL, PL/SQL
-- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, Pulumi, Linux
-- **APIs & data:** REST APIs, Postman, MongoDB, microservices
-- **AI platforms:** LLM APIs (OpenAI, Claude, Gemini), model deployment monitoring, AI platform troubleshooting
-- **Observability:** Datadog, Grafana, telemetry pipelines, log analysis, automated health checks
-- **Support & delivery:** Jira, Zendesk, Remedy, Confluence, ITIL 4, SLA management, root cause analysis, runbooks
-
 **Certifications:** ITIL 4 · AWS · Linux/Unix Administration · SQL & Relational Databases · Microsoft Dynamics 365
-
-## Contact
-
-Open to Senior Technical Support, Tier 3 Support, and Implementation Engineering roles on AI and SaaS platforms.
-
-[LinkedIn](https://www.linkedin.com/in/ezequielcontesti) · ezequielcontesti@hotmail.com
