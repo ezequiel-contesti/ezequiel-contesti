@@ -1,6 +1,6 @@
 # Ezequiel Contesti
 
-**Senior Technical Support & Implementation Engineer** - Vancouver, BC, Canada
+**Senior Technical Support & Implementation Engineer** — Vancouver, BC, Canada
 
 [LinkedIn](https://www.linkedin.com/in/ezequielcontesti) · [Portfolio](https://ezequiel-contesti.github.io/) · [Extended CV](https://ezequiel-contesti.github.io/extended-cv.html) · [Email](mailto:ezequielcontesti@hotmail.com)
 
@@ -19,6 +19,13 @@ A second pair of eyes for log files. A Python tool (standard library only) that 
 - Ships with a sample database-failover log and unit tests
 - **Repo:** https://github.com/ezequiel-contesti/support-log-analyzer
 
+### api-health-checker
+
+A small Python tool that checks the HTTP endpoints your work depends on, on a schedule: UP / DEGRADED / DOWN classification, expected status codes, retries, latency, and text, JSON, and Markdown reports. Standard library only, with a Docker setup and a demo API server.
+
+- Ships with 10 passing unit tests and a demo API (fast 200, slow 200, 500, 404)
+- **Repo:** https://github.com/ezequiel-contesti/api-health-checker
+
 ### Portfolio & Extended CV
 
 Source of my portfolio site: career history, case detail, and the extended CV behind the summary above.
@@ -31,7 +38,6 @@ Source of my portfolio site: career history, case detail, and the extended CV be
 
 Public versions of tools and patterns I use in production support work:
 
-- **API Health Checker** — Dockerized service for endpoint health checks, alerting, and uptime reporting.
 - **SaaS Onboarding Automation** — Deployment and onboarding automation patterns for enterprise SaaS.
 - **LLM Ticket Classifier** — Support ticket categorization and suggested responses using LLM APIs.
 
