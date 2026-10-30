@@ -6,7 +6,7 @@
 
 ---
 
-Technical Support & Implementation Engineer with 12+ years of experience on AI platforms and enterprise SaaS, currently Tier 3 support and implementations at MobSquad / Splight (AI Energy Platform).
+Technical Support & Implementation Engineer with 18+ years of experience on AI platforms and enterprise SaaS, currently Tier 3 support and implementations at MobSquad / Splight (AI Energy Platform).
 
 Most of my production work lives in private enterprise repositories. This profile is where I publish the code behind that work: sanitized tools, automation, and runbook patterns, released as public projects.
 
