@@ -2,7 +2,7 @@
 
 **Senior Technical Support & Implementation Engineer** - Vancouver, BC, Canada
 
-[LinkedIn](https://www.linkedin.com/in/ezequielcontesti) · [Portfolio](https://ezequiel-contesti.github.io/) · [Extended CV](https://ezequiel-contesti.github.io/extended-cv.html) · [YouTube](https://www.youtube.com/channel/UCk8fHLAQOL-Q3Fn9AAP8Vfw) · [Email](mailto:ezequielcontesti@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/ezequielcontesti) · [Portfolio](https://ezequiel-contesti.github.io/) · [Extended CV](https://ezequiel-contesti.github.io/extended-cv.html) · [YouTube](https://www.youtube.com/@ezequielcontestidemos) · [Email](mailto:ezequielcontesti@hotmail.com)
 
 ---
 
