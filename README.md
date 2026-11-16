@@ -2,7 +2,7 @@
 
 **Senior Technical Support & Implementation Engineer** - Vancouver, BC, Canada
 
-[LinkedIn](https://www.linkedin.com/in/ezequielcontesti) · [Portfolio](https://ezequiel-contesti.github.io/) · [Extended CV](https://ezequiel-contesti.github.io/extended-cv.html) · [Email](mailto:ezequielcontesti@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/ezequielcontesti) · [Portfolio](https://ezequiel-contesti.github.io/) · [Extended CV](https://ezequiel-contesti.github.io/extended-cv.html) · [YouTube](https://www.youtube.com/channel/UCk8fHLAQOL-Q3Fn9AAP8Vfw) · [Email](mailto:ezequielcontesti@hotmail.com)
 
 ---
 
@@ -18,6 +18,7 @@ A second pair of eyes for log files. A Python tool (standard library only) that 
 
 - Ships with a sample database-failover log and unit tests
 - **Repo:** https://github.com/ezequiel-contesti/support-log-analyzer
+- **Demo video:** https://youtu.be/qrbkv8_H1Jc
 
 ### api-health-checker
 
@@ -25,14 +26,16 @@ A small Python tool that checks the HTTP endpoints your work depends on, on a sc
 
 - Ships with 10 passing unit tests and a demo API (fast 200, slow 200, 500, 404)
 - **Repo:** https://github.com/ezequiel-contesti/api-health-checker
+- **Demo video:** https://youtu.be/CPAxAWRG0aE
 
 ### Portfolio & Extended CV
 
-Source of my portfolio site: career history, case detail, and the extended CV behind the summary above.
+My portfolio site and extended CV: full career history, case detail, and the complete CV behind the summary above.
 
 - HTML / CSS, published on GitHub Pages
 - **Repo:** https://github.com/ezequiel-contesti/ezequiel-contesti.github.io
-- **Live:** https://ezequiel-contesti.github.io/
+- **Live site:** https://ezequiel-contesti.github.io/
+- **Extended CV:** https://ezequiel-contesti.github.io/extended-cv.html
 
 ### In development
 
