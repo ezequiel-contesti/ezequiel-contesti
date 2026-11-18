@@ -30,7 +30,7 @@ A small Python tool that checks the HTTP endpoints your work depends on, on a sc
 
 ### saas-onboarding-automation
 
-A second pair of eyes for a SaaS go-live. A Python tool (standard library only) that reads a customer onboarding plan and reports go-live readiness: milestone progress, blocked tasks with owners and reasons, overdue milestones, and a dashboard-style HTML report for CSMs and executives.
+A Python tool (standard library only) that reads a customer onboarding plan and reports go-live readiness: milestone progress, blocked tasks with owners and reasons, overdue milestones, and a dashboard-style HTML report for CSMs and executives.
 
 - Ships with a sample onboarding plan and 14 passing unit tests
 - **Repo:** https://github.com/ezequiel-contesti/saas-onboarding-automation
