@@ -28,6 +28,13 @@ A small Python tool that checks the HTTP endpoints your work depends on, on a sc
 - **Repo:** https://github.com/ezequiel-contesti/api-health-checker
 - **Demo video:** https://youtu.be/CPAxAWRG0aE
 
+### saas-onboarding-automation
+
+A second pair of eyes for a SaaS go-live. A Python tool (standard library only) that reads a customer onboarding plan and reports go-live readiness: milestone progress, blocked tasks with owners and reasons, overdue milestones, and a dashboard-style HTML report for CSMs and executives.
+
+- Ships with a sample onboarding plan and 14 passing unit tests
+- **Repo:** https://github.com/ezequiel-contesti/saas-onboarding-automation
+
 ### Portfolio & Extended CV
 
 My portfolio site and extended CV: full career history, case detail, and the complete CV behind the summary above.
@@ -41,7 +48,6 @@ My portfolio site and extended CV: full career history, case detail, and the com
 
 Public versions of tools and patterns I use in production support work:
 
-- **SaaS Onboarding Automation** — Deployment and onboarding automation patterns for enterprise SaaS.
 - **LLM Ticket Classifier** — Support ticket categorization and suggested responses using LLM APIs.
 
 ## Selected results
