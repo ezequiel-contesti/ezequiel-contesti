@@ -34,6 +34,7 @@ A Python tool (standard library only) that reads a customer onboarding plan and 
 
 - Ships with a sample onboarding plan and 14 passing unit tests
 - **Repo:** https://github.com/ezequiel-contesti/saas-onboarding-automation
+- **Demo video:** https://youtu.be/oTeflhP-T4s
 
 ### Portfolio & Extended CV
 
